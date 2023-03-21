@@ -1,0 +1,86 @@
+body{
+  background-image: url("Фон.jpg");
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: 100%;
+}
+nav{
+  background-color: white;
+  opacity: 70%;
+  font-size: xx-large;
+  text-align: center;
+}
+a:hover{
+  background-color: chartreuse;
+}
+a{
+  color: green;
+  text-decoration: none;
+}
+.a1{
+  background-color: white;
+  opacity: 70%;
+  width: 600px;
+  padding: 20px;
+}
+.a2{
+  background-color: white;
+  opacity: 70%;
+  width: 600px;
+  padding: 20px;
+  margin-top: -270px;
+}
+.a3{
+  background-color: white;
+  opacity: 70%;
+  margin-left: 700px;
+  float: right;
+  margin-top: -310px;
+  height: 580px;
+  padding: 20px;
+}
+h1{
+  background-color: white;
+  opacity: 70%;
+  font-size: xxx-large;
+  color: darkgreen;
+  text-align: center;
+}
+footer{
+  background-color: white;
+  opacity: 70%;
+  text-align: center;
+  margin-top: 700px;
+}
+p{
+  float:left;
+  text-align: justify;
+  margin: 10px 10px 10px 0;
+}
+.nav{
+  width: 100px;
+  height: 100px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  opacity: 100%;
+  margin-right: 10px;
+}
+
+.aa{
+  float: left;
+}
+.q{
+  float: right;
+}
+.qq{
+  float: left;
+}
+#anasta{
+  margin-top: 50px;
+  text-align: center;
+}
+#ss{
+  margin-right: 200px;
+}
